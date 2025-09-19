@@ -112,10 +112,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&border=true&quote=Innovation%20distinguishes%20between%20a%20leader%20and%20a%20follower&author=Steve%20Jobs&bg_color=E6F3FF&color=007ACC" alt="Quote"/>
-</div>
-
 <br/>
 
 <div align="center">
